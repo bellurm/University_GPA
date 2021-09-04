@@ -1,0 +1,16 @@
+C:\Users\Malib\source\repos\University_GPA\University_GPA\bin\Debug\netcoreapp3.1\University_GPA.exe
+C:\Users\Malib\source\repos\University_GPA\University_GPA\bin\Debug\netcoreapp3.1\University_GPA.deps.json
+C:\Users\Malib\source\repos\University_GPA\University_GPA\bin\Debug\netcoreapp3.1\University_GPA.runtimeconfig.json
+C:\Users\Malib\source\repos\University_GPA\University_GPA\bin\Debug\netcoreapp3.1\University_GPA.runtimeconfig.dev.json
+C:\Users\Malib\source\repos\University_GPA\University_GPA\bin\Debug\netcoreapp3.1\University_GPA.dll
+C:\Users\Malib\source\repos\University_GPA\University_GPA\bin\Debug\netcoreapp3.1\University_GPA.pdb
+C:\Users\Malib\source\repos\University_GPA\University_GPA\obj\Debug\netcoreapp3.1\University_GPA.csproj.AssemblyReference.cache
+C:\Users\Malib\source\repos\University_GPA\University_GPA\obj\Debug\netcoreapp3.1\University_GPA.Form1.resources
+C:\Users\Malib\source\repos\University_GPA\University_GPA\obj\Debug\netcoreapp3.1\University_GPA.csproj.GenerateResource.cache
+C:\Users\Malib\source\repos\University_GPA\University_GPA\obj\Debug\netcoreapp3.1\University_GPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malib\source\repos\University_GPA\University_GPA\obj\Debug\netcoreapp3.1\University_GPA.AssemblyInfoInputs.cache
+C:\Users\Malib\source\repos\University_GPA\University_GPA\obj\Debug\netcoreapp3.1\University_GPA.AssemblyInfo.cs
+C:\Users\Malib\source\repos\University_GPA\University_GPA\obj\Debug\netcoreapp3.1\University_GPA.csproj.CoreCompileInputs.cache
+C:\Users\Malib\source\repos\University_GPA\University_GPA\obj\Debug\netcoreapp3.1\University_GPA.dll
+C:\Users\Malib\source\repos\University_GPA\University_GPA\obj\Debug\netcoreapp3.1\University_GPA.pdb
+C:\Users\Malib\source\repos\University_GPA\University_GPA\obj\Debug\netcoreapp3.1\University_GPA.genruntimeconfig.cache
